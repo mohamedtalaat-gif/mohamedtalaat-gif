@@ -4,6 +4,8 @@ Computational Pharmaceutics Engineer — BPharm, Ain Shams University.
 
 I build open-source tools at the intersection of pharmaceutical science and computation: drug delivery system engineering, cheminformatics, QSAR/ADMET modeling, and the physics behind why a molecule does or doesn't reach where it needs to go.
 
+[PharmAMP](https://github.com/mohamedtalaat-gif/PharmAMP) — Pharmaceutical-developability metrics (aggregation propensity, solubility) for AI-designed antimicrobial peptides — seqme-compatible, validated against real wet-lab safety data.
+
 [CEREBRO-X](https://github.com/mohamedtalaat-gif/CEREBRO-X) — a computational pipeline for screening CNS drug-delivery formulations (PBPK, DLVO colloidal stability, docking, QSAR), built and audited in the open, including a public record of its own bugs found and fixed.
 
 I'd rather ship something real and say what's still rough than ship something polished and hide what isn't.
