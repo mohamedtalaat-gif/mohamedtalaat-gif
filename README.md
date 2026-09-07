@@ -8,5 +8,6 @@ I build open-source tools at the intersection of pharmaceutical science and comp
 
 I'd rather ship something real and say what's still rough than ship something polished and hide what isn't.
 
+- 📍 Cairo, Egypt
 - 🔗 [mohamedtalaat-gif.github.io](https://mohamedtalaat-gif.github.io/)
 - 🧬 [ORCID](https://orcid.org/0000-0002-9171-437X)
